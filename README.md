@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on web development
 - 💬 Ask me about programming
 - 📫 How to reach me:  [Instagram](https://www.instagram.com/jevin_vekaria1712/)
-- ⚡ Fun fact: Sleeping with a problem can actually solve it
+- ⚡ Fun fact: A programmer is not a PC repairman.
 
 
 
