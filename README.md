@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm jevin925</h1>
+<h3 align="center">A passionate web developer .</h3>
 
-<!--
-**jevin925/jevin925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jevin925" alt="jevin925" /> </p>
 
+- 🔭 I’m currently working on **App Development**
 
-- 🔭 I’m currently working on App development
-- 🌱 I’m currently learning React.js, App development ...
-- 👯 I’m looking to collaborate on web development
-- 💬 Ask me about programming
-- 📫 How to reach me:  [Instagram](https://www.instagram.com/jevin_vekaria1712/)
-- ⚡ Fun fact: A programmer is not a PC repairman.
+- 🌱 I’m currently learning **Android App Development, React.js**
 
+- 👯 I’m looking to collaborate on **Web Development**
 
+- 💬 Ask me about **Anything**
 
-![Jainam's Github Stats](https://github-readme-stats.vercel.app/api?username=jevin925&show_icons=true&icon_color=000&title_color=000)
+- 📫 How to reach me **jevin925@gmail.com**
+
+- ⚡ Fun fact **A programmer is not a PC repairman**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jevin925&show_icons=true" alt="jevin925" /> </p>
+
+<p align="center">
+<a href="https://linkedin.com/in/jevin vekaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jevin vekaria" height="20" width="20" /></a>
+<a href="https://instagram.com/jevin_vekaria1712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jevin_vekaria1712" height="20" width="20" /></a>
+</p>
