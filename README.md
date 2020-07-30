@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jevin925</h1>
+<h1 align="center">Hi 👋, I'm jevin Vekaria</h1>
 <h3 align="center">A passionate web developer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jevin925" alt="jevin925" /> </p>
