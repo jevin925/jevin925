@@ -20,7 +20,7 @@
 
 <h3 align="center">
   <code>
-    Skills Learned
+    Technologies Learned
   </code>
 </h3>
 
