@@ -43,9 +43,9 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" height=40 hspace=20>
 </p>
 <p align="center">
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/sql.png" height=40 hspace=20>
+  <img src="http://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" height=40 hspace=20>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" height=40 hspace=20>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/firebase.png" height=40 hspace=20>
+  <img src="http://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" height=40 hspace=20>
 </p>
 
 
