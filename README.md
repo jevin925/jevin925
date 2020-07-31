@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer .</h3>
 
 
-<p>
+<p algn="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jevin925" alt="jevin925" /> </p>
  <p align="right">
   <a href="https://github.com/jevin925">
