@@ -30,8 +30,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25"/></p>
   
 
-  <p align="center">
-    <img src="undraw_Designer_by46.svg" width="500">
+ <p align="center">
+    <img src="https://github.com/jevin925/jevin925/blob/master/draw_Designer_by46.svg" width="500">
 </p>
  
   
