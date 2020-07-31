@@ -44,7 +44,7 @@
 </p>
 
 
- <p align="center">
+ <p align="center" vspace="20px">
    <a href="https://github.com/jevin925">
     <img src="https://github.com/jevin925/jevin925/blob/master/undraw_Designer_by46.svg" width="500">
  </a>
