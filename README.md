@@ -2,6 +2,11 @@
 <h3 align="center">A passionate web developer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jevin925" alt="jevin925" /> </p>
+ <p align="right">
+  <a href="https://github.com/jevin925">
+    <img src="undraw_Designer_by46.svg" width="500">
+  </a>
+</p>
 
 - 🔭 I’m currently working on **App Development**
 
@@ -16,12 +21,6 @@
 - ⚡ Fun fact **A programmer is not a PC repairman**
 
 <p align="left">
-  
-  <p align="right">
-  <a href="https://github.com/jevin925">
-    <img src="undraw_Designer_by46.svg" width="500">
-  </a>
-</p>
   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
