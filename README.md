@@ -31,7 +31,7 @@
   
 
  <p align="center">
-    <img src="https://github.com/jevin925/jevin925/master/undraw_Designer_by46.svg" width="500">
+    <img src="https://github.com/jevin925/jevin925/master/blob/undraw_Designer_by46.svg" width="500">
 </p>
  
   
