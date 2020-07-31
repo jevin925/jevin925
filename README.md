@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm jevin Vekaria</h1>
 <h3 align="center">A passionate web developer .</h3>
 
-
-<p algn="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jevin925" alt="jevin925" /> </p>
- <p align="right">
-  <a href="https://github.com/jevin925">
-    <img src="undraw_Designer_by46.svg" width="500">
-  </a>
-</p>
+ 
+
 
 - 🔭 I’m currently working on **App Development**
 
@@ -21,7 +16,7 @@
 - 📫 How to reach me **jevin925@gmail.com**
 
 - ⚡ Fun fact **A programmer is not a PC repairman**
-</p>
+
 
 <p align="left">
   
@@ -35,6 +30,11 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25"/></p>
   
 
+  <p align="right">
+  <a href="https://github.com/jevin925">
+    <img src="undraw_Designer_by46.svg" width="500">
+  </a>
+</p>
  
   
 <div>
