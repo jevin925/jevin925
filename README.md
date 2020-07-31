@@ -25,7 +25,7 @@
  
   
 <div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jevin925&show_icons=true" alt="jevin925" /> </p>
+<p align="center" padding-top="20px"><img src="https://github-readme-stats.vercel.app/api?username=jevin925&show_icons=true" alt="jevin925" /> </p>
 </div>
 
 
