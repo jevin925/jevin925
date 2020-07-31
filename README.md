@@ -36,7 +36,20 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" height=50 hspace=20>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" height=30 hspace=20>
 </p>
-
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" height=40 hspace=20>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" height=40 hspace=20>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" height=40 hspace=20>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" height=40 hspace=20>
+</p>
+<p align="center">
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/sql.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mongodb.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/firebase.png" height=40 hspace=20>
+</p>
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" height=30>
+</p>
   
 
  <p align="center">
