@@ -52,7 +52,7 @@
  
   
 <div>
-<p align="center" padding-top="20px"><img src="https://github-readme-stats.vercel.app/api?username=jevin925&show_icons=true" alt="jevin925" /> </p>
+<p align="center" padding-top="20"><img src="https://github-readme-stats.vercel.app/api?username=jevin925&show_icons=true" alt="jevin925" /> </p>
 </div>
 
 
@@ -60,6 +60,6 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jevin-vekaria-04a7361a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jevin vekaria" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/jevin-vekaria-04a7361a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jevin vekaria" height="30" width="30" hspace="20 /></a>
 <a href="https://instagram.com/jevin_vekaria1712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jevin_vekaria1712" height="30" width="30" /></a>
 </p>
