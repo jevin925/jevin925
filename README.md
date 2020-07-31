@@ -33,8 +33,8 @@
   
   <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" height=30 hspace=20>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" height=50 hspace=20>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" height=30 hspace=20>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" height=50 hspace=20>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" height=30 hspace=20>
 </p>
 
   
