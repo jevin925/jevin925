@@ -47,7 +47,7 @@
 <!--START_SECTION:readme-info-->
 🏆 140 Contributions in year 2020
 
-**From Hello World I have written 0 Lines of Code ✍️**
+
 
 **I'm an early 🐤** 
 
