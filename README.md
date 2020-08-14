@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm jevin Vekaria</h1>
 <h3 align="center">A passionate web developer .</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jevin925" alt="jevin925" /> </p>
  
 
 
@@ -44,45 +42,25 @@
 </p>
 
 
-<!--START_SECTION:readme-info-->
-🏆 143 Contributions in year 2020
-
-**From Hello World I have written 97574 Lines of Code ✍️**
-
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    52 commits     ████████░░░░░░░░░░░░░░░░░   34.44% 
-🌆 Daytime    84 commits     ██████████████░░░░░░░░░░░   55.63% 
-🌃 Evening    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
-🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31%
-
-```
-📅 **I'm Most Productive on Fridays** 
-
-```text
-Monday       33 commits     █████░░░░░░░░░░░░░░░░░░░░   21.85% 
-Tuesday      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31% 
-Wednesday    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
-Thursday     25 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
-Friday       37 commits     ██████░░░░░░░░░░░░░░░░░░░   24.5% 
-Saturday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
-Sunday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.21%
-```
-**My 💖 languages HTML** 
-
-```text
-HTML                     7 repos             █████████████░░░░░░░░░░░░   53.85% 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
-```
-
-<!--END_SECTION:readme-info-->
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
+<!--START_SECTION_THANK_ME:readme-info-->
+<!--END_SECTION_THANK_ME:readme-info-->
  
   
-<div>
+<!--<div>
 <p align="center" padding-top="20"><img src="https://github-readme-stats.vercel.app/api?username=jevin925&show_icons=true" alt="jevin925" /> </p>
-</div>
+</div>-->
 
 
 
