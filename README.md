@@ -93,9 +93,7 @@ CSS                      2 repos             ███░░░░░░░░�
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
-<!--START_SECTION_THANK_ME:readme-info-->
-Made with 🖤 by [Jainam Desai](https://th3c0d3br34ker.github.io)
-<!--END_SECTION_THANK_ME:readme-info-->
+
  
   
 <!--<div>
