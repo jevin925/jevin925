@@ -43,7 +43,7 @@
 
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 143 people were here!**
+**✨ 146 people were here!**
 
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
@@ -55,41 +55,49 @@
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 **I'm an early 🐤** 
 
-```text
-🌞 Morning    55 commits     ████████░░░░░░░░░░░░░░░░░   33.95% 
-🌆 Daytime    84 commits     █████████████░░░░░░░░░░░░   51.85% 
-🌃 Evening    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09%
+| | | | |
+| --- | --- | --- | --- |
+|🌞 Morning    |56 commits     |![](https://via.placeholder.com/136x22/000000/000000?text=+)![](https://via.placeholder.com/264x22/b8b8b8/b8b8b8?=text=+)|34.36%|
+ |🌆 Daytime    |84 commits     |![](https://via.placeholder.com/208x22/000000/000000?text=+)![](https://via.placeholder.com/192x22/b8b8b8/b8b8b8?=text=+)|51.53%|
+ |🌃 Evening    |18 commits     |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.04%|
+ |🌙 Night      |5 commits      |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|3.07%|
 
-```
+| | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 📅 **I'm Most Productive on Fridays** 
 
-```text
-Monday       33 commits     █████░░░░░░░░░░░░░░░░░░░░   20.37% 
-Tuesday      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09% 
-Wednesday    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
-Thursday     25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
-Friday       46 commits     ███████░░░░░░░░░░░░░░░░░░   28.4% 
-Saturday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.79% 
-Sunday       30 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52%
-```
+| | | | |
+| --- | --- | --- | --- |
+|Monday       |34 commits     |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|20.86%|
+ |Tuesday      |5 commits      |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|3.07%|
+ |Wednesday    |12 commits     |![](https://via.placeholder.com/28x22/000000/000000?text=+)![](https://via.placeholder.com/372x22/b8b8b8/b8b8b8?=text=+)|7.36%|
+ |Thursday     |25 commits     |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.34%|
+ |Friday       |46 commits     |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|28.22%|
+ |Saturday     |11 commits     |![](https://via.placeholder.com/28x22/000000/000000?text=+)![](https://via.placeholder.com/372x22/b8b8b8/b8b8b8?=text=+)|6.75%|
+ |Sunday       |30 commits     |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.4%|
+
+| | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 <!--START_SECTION_LANGUAGE:readme-info-->
 **My 💖 languages HTML** 
 
-```text
-HTML                     7 repos             █████████████░░░░░░░░░░░░   53.85% 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
-```
+| | | | |
+| --- | --- | --- | --- |
+
+|HTML                     |7 repos|             ![](https://via.placeholder.com/216x22/000000/000000?text=+)![](https://via.placeholder.com/184x22/b8b8b8/b8b8b8?=text=+)|53.85%|
+ 
+|JavaScript               |4 repos|             ![](https://via.placeholder.com/124x22/000000/000000?text=+)![](https://via.placeholder.com/276x22/b8b8b8/b8b8b8?=text=+)|30.77%|
+ 
+|CSS                      |2 repos|             ![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.38%|
+
+| | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 <!--START_CONTRIBUTIONS:readme-info-->
-🏆 154 Contributions in year 2020
+**🏆 155 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
