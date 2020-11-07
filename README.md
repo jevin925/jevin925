@@ -57,8 +57,8 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |116 commits         |![](https://via.placeholder.com/180x22/000000/000000?text=+)![](https://via.placeholder.com/220x22/b8b8b8/b8b8b8?=text=+)|45.31%|
-|🌆 Daytime                |71 commits          |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.73%|
+|🌞 Morning                |117 commits         |![](https://via.placeholder.com/184x22/000000/000000?text=+)![](https://via.placeholder.com/216x22/b8b8b8/b8b8b8?=text=+)|45.7%|
+|🌆 Daytime                |70 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|27.34%|
 |🌃 Evening                |56 commits          |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|21.88%|
 |🌙 Night                  |13 commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.08%|
 | | | | |
@@ -92,7 +92,7 @@
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 260 Contributions in year 2020**
+**🏆 261 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
