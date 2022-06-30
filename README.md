@@ -48,7 +48,7 @@
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 1.0 million Lines of Code ✍️**
+**From Hello World I have written 907699 Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
@@ -95,7 +95,7 @@
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 146 Contributions in year 2022**
+**🏆 147 Contributions in year 2022**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
